@@ -6,6 +6,8 @@ https://github.com/Rangisal/surfs_up/blob/main/climate_analysis.ipynb
 
 The analysis specifically for this analysis which are temperature data for the months of June and December can be found in the following link.
 
+https://github.com/Rangisal/surfs_up/blob/main/SurfsUp_Challenge.ipynb
+
 
 
 Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
