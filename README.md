@@ -19,7 +19,11 @@ https://github.com/Rangisal/surfs_up/blob/main/SurfsUp_Challenge.ipynb
 - Percentiles of the month of June is higher than the month of December as well. Hence the higher temperature falls between 25% - 75% in June. 
 
 # Summary
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+- As per the previous and current analysis it is Noticeable that the temperature and the precipitation for the month of June , December and other months are very good. 
+- However there are other parameters and factors that can be used before making the decesion. 
+- SWOT analysis following by the data analysis is key factor.
+- Find out more information about number of tourists , hotels around the stations can be important. 
+- Completeing analysis of few other islands other than Oahu will be benefited comparing the weather data.  
 
 ## Two additional queries can be done to gather more weather for June and December 
 - According the previous analysis we only analysed the last 12 months of precipitation data. We should analyse the number of years that we analysed the temperature for the both minths 
