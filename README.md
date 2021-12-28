@@ -15,5 +15,7 @@ https://github.com/Rangisal/surfs_up/blob/main/SurfsUp_Challenge.ipynb
 ![image](https://user-images.githubusercontent.com/93173498/147528186-9169b699-dfa8-4a3a-b9b0-552a1ba681d3.png)
 
 
-Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+- hhhhh
+- kkkkkkkk
+- kkkkkkkkkk
 Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
