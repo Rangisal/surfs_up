@@ -18,4 +18,9 @@ https://github.com/Rangisal/surfs_up/blob/main/SurfsUp_Challenge.ipynb
 - As the std is higher for the month of December it can be said the variance of the same also higher and that indicates how far the set of data of temperature is from the         average. As the month of June has lower std than the month of December, the data of temperature fairly close to the average.
 - Percentiles of the month of June is higher than the month of December as well. Hence the higher temperature falls between 25% - 75% in June. 
 
-Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+# Summary
+Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+
+## Two additional queries can be done to gather more weather for June and December 
+- According the previous analysis we only analysed the last 12 months of precipitation data. We should analyse the number of years that we analysed the temperature for the both minths 
+- Query to gather data for humidity 
