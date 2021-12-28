@@ -1,4 +1,4 @@
-# surfs_up Analysis
+# Surfs_Up Analysis
 ## Overview of the analysis: 
 The main purpose of the analysis is to find out the temperature data for months of June and December.Hence to make a decision opening up the surf shop and to see if it is going to be sustainable all year around. 12 months pf precipitation, the most active stations, temperature analysis of the most active station, station with the highest temperature have been analysed prior to this analysis. Those information can be found in the following link.
 
